@@ -10,3 +10,8 @@
 
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C&labelColor=%23000000)
 
+![Static Badge](https://img.shields.io/badge/next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=%23000000&logoSize=%23000000&labelColor=%2300000&color=%23ffffff)
+![Static Badge](https://img.shields.io/badge/next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=%23fff&logoSize=%23000000&labelColor=%23000)
+
+
+
