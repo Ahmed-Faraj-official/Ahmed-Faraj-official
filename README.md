@@ -1,4 +1,4 @@
-<h1 align="center"> Just A Demo !? </h1>
+<h1 align="center"> Just A Demo ! </h1>
 <hr>
 <p align="center">
   <img src="https://github.com/Ahmad-Faraj/Ahmad-Faraj/assets/148560615/4c71522d-263c-4a72-a5fb-30154136986a" alt="animated" width="70%"/>
