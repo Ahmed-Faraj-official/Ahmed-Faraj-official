@@ -32,3 +32,4 @@
 ![Static Badge](https://img.shields.io/badge/nginx-%2334ff6e?style=for-the-badge&logo=nginx&logoColor=%2334ff6e&labelColor=black)
 
 ![Static Badge](https://img.shields.io/badge/nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=%23009639&labelColor=black)
+![Static Badge](https://img.shields.io/badge/nodejs-%2360f439?style=for-the-badge&logo=nodedotjs&logoColor=%236af246&labelColor=black)
