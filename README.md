@@ -27,6 +27,7 @@
 ![Static Badge](https://img.shields.io/badge/nginx-%233dff74?style=for-the-badge&logo=nginx&logoColor=%233dff74&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/mongodb-%236cff6d?style=for-the-badge&logo=mongodb&logoColor=%236cff6d&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/terraform-%23cb97ff?style=for-the-badge&logo=terraform&logoColor=%23cb97ff&labelColor=black)
+![Static Badge](https://img.shields.io/badge/terraform-%23844FBA?style=for-the-badge&logo=terraform&logoColor=%23844FBA&labelColor=black)
 
 ![Static Badge](https://img.shields.io/badge/nginx-%2334ff6e?style=for-the-badge&logo=nginx&logoColor=%2334ff6e&labelColor=black)
 
