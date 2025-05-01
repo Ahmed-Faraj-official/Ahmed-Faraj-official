@@ -11,7 +11,7 @@
 - Competitive Programming: [`Codeforces`](https://codeforces.com/profile/Ahmed_Faraj), [`LeetCode`](https://leetcode.com/u/Ahmed_Faraj/), [`AtCoder`](https://atcoder.jp/users/Ahmed_Faraj), [`CodeChef`](https://www.codechef.com/users/ahmed_faraj), [`ICPC`](https://icpc.global/ICPCID/XRR2FB1ZXTL5).
 - Interested in `back-end`, `low-level programming` and `core CS concepts`.
 - I use `vim`, btw — and yes, I <3 `Linux` & `bash`.
-- Favourite chess opening? Sicilian Defense.
 - No such thing as a hard problem, just a skill issue.
-- Connect via [`Gmail`](your-link-here) or [`LinkedIn`](your-email-here).
+- Favourite chess opening? Sicilian Defense.
+- Connect via [`Gmail`](mailto:ahmedfrag4040@gmail.com) or [`LinkedIn`](https://www.linkedin.com/in/ahmed-faraj-cs/).
 
