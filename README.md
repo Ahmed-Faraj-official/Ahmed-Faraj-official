@@ -4,15 +4,14 @@
   </a>
 </p>
 
-<b>$ About me</b>
 
+#### $ About me
 - CS student from [`Suez Canal University`](https://suez.edu.eg/ar/).
-- <b>1×</b> `ECPC` Finalist.
-- `Specialist` @[Codeforces](https://codeforces.com/profile/Ahmed_Faraj)
-- Competitive programmer: `Codeforces`, `LeetCode`, `AtCoder`, `CodeChef`.  
+- <b>1×</b> `ECPC` Finalist — `Specialist` @Codeforces.
+- Competitive programmer at [`Codeforces`](https://codeforces.com/profile/Ahmed_Faraj), [`LeetCode`](https://leetcode.com/u/Ahmed_Faraj/), [`AtCoder`](https://atcoder.jp/users/Ahmed_Faraj), [`CodeChef`](https://www.codechef.com/users/ahmed_faraj).  
 - Passionate about software, especially back-end engineering & low-level systems.  
 - Open-source contributor, enthusiast for DevOps, backend, math, CS concepts, low-level.  
-- Vim & Linux user.  
-- Favorite chess opening: Sicilian Defense.  
-- Reach me on [LinkedIn](your-link-here) or via [Gmail](your-email-here).
+- Vim & Linux enjoyer.  
+- My Favorite chess opening is Sicilian Defense.  
+- Reach me on [`LinkedIn`](your-link-here) or via [`Gmail`](your-email-here).
 - My [`Resume`](your-link-here).
