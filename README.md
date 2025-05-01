@@ -10,7 +10,6 @@
 - <b>1×</b> `ECPC` Finalist — `Specialist` @Codeforces.
 - Interested in `back-end`, `low-level programming`, and `core CS concepts`.
 - I use `vim`, btw — and yes, I <3 `Linux` & `bash`.
-- I'm obssesed with `mathematics`.
 - Favourite chess opening? Sicilian Defense.
 - Competitive Programming: [`Codeforces`](https://codeforces.com/profile/Ahmed_Faraj), [`LeetCode`](https://leetcode.com/u/Ahmed_Faraj/), [`AtCoder`](https://atcoder.jp/users/Ahmed_Faraj), [`CodeChef`](https://www.codechef.com/users/ahmed_faraj), [`ICPC`](https://icpc.global/ICPCID/XRR2FB1ZXTL5).
 - Connect via [`Gmail`](your-link-here) or [`LinkedIn`](your-email-here).
