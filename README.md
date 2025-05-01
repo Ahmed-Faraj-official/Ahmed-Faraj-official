@@ -11,7 +11,7 @@
 - Competitive Programming: [`Codeforces`](https://codeforces.com/profile/Ahmed_Faraj), [`LeetCode`](https://leetcode.com/u/Ahmed_Faraj/), [`AtCoder`](https://atcoder.jp/users/Ahmed_Faraj).
 - Interested in `back-end`, `low-level programming` and `core CS concepts`.
 - I use `vim`, btw — and yes, I <3 `Linux` & `bash`.
-- No such thing as a hard problem, just a skill issue.
+- No such thing as a hard problem, only a skill issue.
 - Favourite chess opening? Sicilian Defense.
 - Connect via [`Gmail`](mailto:ahmedfrag4040@gmail.com) or [`LinkedIn`](https://www.linkedin.com/in/ahmed-faraj-cs/).
 
