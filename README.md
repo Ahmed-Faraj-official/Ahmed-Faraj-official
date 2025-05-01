@@ -4,15 +4,14 @@
   </a>
 </p>
 
----
-<b>About me</b>
+<b>$ About me</b>
 
-- CS student - [`Suez Canal University`](https://suez.edu.eg/ar/).
+- CS student from [`Suez Canal University`](https://suez.edu.eg/ar/).
 - <b>1×</b> `ECPC` Finalist.
+- `Specialist` @[Codeforces](https://codeforces.com/profile/Ahmed_Faraj)
 - Competitive programmer: `Codeforces`, `LeetCode`, `AtCoder`, `CodeChef`.  
 - Passionate about software, especially back-end engineering & low-level systems.  
 - Open-source contributor, enthusiast for DevOps, backend, math, CS concepts, low-level.  
-- Passionate about ML & AI.  
 - Vim & Linux user.  
 - Favorite chess opening: Sicilian Defense.  
 - Reach me on [LinkedIn](your-link-here) or via [Gmail](your-email-here).
