@@ -7,12 +7,11 @@
 
 #### $ About me
 - CS student at [`Suez Canal University`](https://suez.edu.eg/ar/).  
-- <b>1×</b> `ECPC` Finalist — `Specialist` @Codeforces.  
-- I <3 `CS concepts`, `back-end`, and `low-level systems`.  
+- <b>1×</b> `ECPC` Finalist — `specialist` @Codeforces.  
+- I <3 `CS concepts`, `back-end`, and `low-level programming`.  
 - Interested in `open-source` contribution.  
-- I use `Vim`, btw — and yes, I <3 `Linux` & `Bash`.  
-- Favorite chess opening: Sicilian Defense.  
-- Competitive programming profiles → [`Codeforces`](https://codeforces.com/profile/Ahmed_Faraj), [`LeetCode`](https://leetcode.com/u/Ahmed_Faraj/), [`AtCoder`](https://atcoder.jp/users/Ahmed_Faraj), [`CodeChef`](https://www.codechef.com/users/ahmed_faraj), [`ICPC`](https://icpc.global/ICPCID/XRR2FB1ZXTL5).  
-- Connect with me on [`LinkedIn`](your-link-here) or [`Gmail`](your-email-here).  
-- Check out my [`Resume`](your-link-here).
+- I use `Vim` btw — and yes, I <3 `Linux` & `Bash`.  
+- Favorite chess opening is Sicilian Defense.  
+- Competitive programming profiles [`Codeforces`](https://codeforces.com/profile/Ahmed_Faraj), [`LeetCode`](https://leetcode.com/u/Ahmed_Faraj/), [`AtCoder`](https://atcoder.jp/users/Ahmed_Faraj), [`CodeChef`](https://www.codechef.com/users/ahmed_faraj), [`ICPC`](https://icpc.global/ICPCID/XRR2FB1ZXTL5).  
+- Connect via [`LinkedIn`](your-link-here) or [`Gmail`](your-email-here).  
 
