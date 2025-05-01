@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Play&pause=1000&color=A2F749&center=true&vCenter=true&width=800&lines=Hi,+I'm+Ahmed+Faraj;CS+student+obsessed+with+CP+and+Mathematics;Feel+free+to+explore+my+repos;ahmed@faraj+:~$+cat+readme.md" alt="Typing SVG" />
+  </a>
+</p>
+
 <p align="center">- 💡 <i>I’m currently learning </i><b>Back-End</b><i> Development.</i></p>
 <p align="center">- 🔍 <i>I’m currently seeking </i><b>Specialist</b><i> on Codeforces.</i></p>
 <p align="center">- ⚡<i><b>Fun Fact</b> I Like Playing </i><b>Chess</b></p>
